@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Atm_Examen</string>
+    <string name="hint_cedula">Cédula:</string>
+    <string name="hint_nombres">Nombres:</string>
+    <string name="hint_apellidos">Apellidos:</string>
+    <string name="hint_direccion">Direccion:</string>
+    <string name="hint_tipocar">Tipo Carro:</string>
+    <string name="hint_corp">Coorporación:</string>
+    <string name="menu_nuevo1">Nuevo registro :</string>
+</resources>
